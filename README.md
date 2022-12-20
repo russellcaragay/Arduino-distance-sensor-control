@@ -15,7 +15,6 @@
   <li>Ultrasonic Distance Sensor (HC-SR04)</li>
   <li>250kΩ Potentiometer </li>
   <li>LCD 16 x 2 </li>
-  <li>H-Bridge Motor Driver (L293D)</li>
   <li>220Ω Resistor</li>
 </ul>
 
